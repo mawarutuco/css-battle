@@ -39,11 +39,48 @@
 </style>
 
 
-<!-- OBJECTIVE -->
-<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+//----升級↓-----
 
-<!-- SCORING -->
-<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
 
-<!-- IMPORTANT: remove the comments before submitting -->
-```
+<div class='big-big-box'>
+<div class='big-box'>
+<div class="box"></div>
+<div class="box"></div>
+</div>
+
+<div class='big-box'>
+<div class="box"></div>
+<div class="box"></div>
+</div>
+</div>
+
+<style>
+  body{
+    background: #62374e;
+  /*瀏覽器預設會有間距*/
+    margin:0px;
+      padding:0px;
+  }
+  
+  .big-big-box{
+        display:flex;
+ 	flex-direction:column;
+    justify-content:space-between;
+    height:100%;
+  }
+  
+  .big-box{
+    display:flex;
+ 	flex-direction:row;
+    justify-content:space-between;
+    margin:50px 50px;
+  }
+  
+  .box {
+    width: 50px;
+    height: 50px;
+    background: #fdc57b;
+  }
+  
+  
+</style>
