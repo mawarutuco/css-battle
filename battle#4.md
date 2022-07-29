@@ -1,3 +1,5 @@
+```html
+
 <div class='display-row'>
   <div class='display-col'>
    		 <div class="purple-box"></div>
@@ -64,3 +66,6 @@
 <!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
 
 <!-- IMPORTANT: remove the comments before submitting -->
+
+
+```
