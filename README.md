@@ -4,6 +4,12 @@ https://cssbattle.dev/
 
 # battle#1
 
+## #9
+![image](https://user-images.githubusercontent.com/98326769/181909130-7b358bd9-71a6-434f-b05f-6e1dd68edd16.png)
+
+## #8
+![image](https://user-images.githubusercontent.com/98326769/181907735-e0f5bb05-05a2-48eb-b33a-83ac5cf8d7bf.png)
+
 ## #7
 ![image](https://user-images.githubusercontent.com/98326769/181874697-04d069d6-2816-45f3-8082-db82bacb5ec0.png)
 
