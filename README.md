@@ -1,8 +1,18 @@
-# css-battle 練習CSS
+# css-battle 練習CSS (已完成)
 
 https://cssbattle.dev/
 
-# battle#1
+# Battle#2
+
+## #15
+![image](https://user-images.githubusercontent.com/98326769/185655868-a0714d3f-8033-4336-be6d-9cf021aa9c48.png)
+
+## #13
+![image](https://user-images.githubusercontent.com/98326769/185656048-404a843a-f822-4c22-87fb-d984a0868b7d.png)
+
+---
+
+# Battle#1
 
 ## #12
 ![image](https://user-images.githubusercontent.com/98326769/182323618-e550a87c-e0a3-4f6a-90ed-05499e0029ad.png)
