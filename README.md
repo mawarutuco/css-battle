@@ -10,8 +10,6 @@ https://cssbattle.dev/
 ## #13
 ![image](https://user-images.githubusercontent.com/98326769/185656048-404a843a-f822-4c22-87fb-d984a0868b7d.png)
 
----
-
 # Battle#1
 
 ## #12
