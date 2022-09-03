@@ -60,7 +60,7 @@
     height: 140px;
     background: #f3ac3c;
     border-radius: 50%;
-    -webkit-mask: radial-gradient(circle at 70px, #0000 25px, red 0);
+    -webkit-mask: radial-gradient(circle at center center, #0000 25px, red 0);
     z-index: 3;
   }
 </style>
