@@ -26,7 +26,7 @@
     width: 80px;
     height: 80px;
     border-radius: 100%;
-    -webkit-mask: radial-gradient(circle at 40px, #0000 30px, red 0px);
+    -webkit-mask: radial-gradient(circle at center center, #0000 30px, red 0px);
   }
 
   .top {
