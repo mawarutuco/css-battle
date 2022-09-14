@@ -1,3 +1,4 @@
+```html
 <div class='container'>
   <div class='ticket'></div>
   <div class='hole top'></div>
@@ -36,3 +37,4 @@ left:230px;
   }
 
 </style>
+```

@@ -1,3 +1,4 @@
+```html
 <div class='right color'></div>
 <div class='left color'></div>
 <div class='bottom color'></div>
@@ -33,3 +34,4 @@
     background:#F5D6B4;
   }
 </style>
+```

@@ -1,3 +1,4 @@
+```html
 <div class='orange model'></div>
 <div class='blue model'></div>
 <style>
@@ -25,3 +26,4 @@
     background:#222;
   }
 </style>
+```
