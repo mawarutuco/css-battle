@@ -35,5 +35,4 @@
     background: #1A4341;
   }
 </style>
-</style>
 ```
