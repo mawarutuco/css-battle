@@ -2,7 +2,12 @@
 
 https://cssbattle.dev/
 
-# Battle#5
+# Battle#7
+
+## #33
+![image](https://user-images.githubusercontent.com/98326769/191538874-1aa01def-9a7a-407c-824b-e06af85a19c8.png)
+
+# Battle#6
 
 ## #32
 ![image](https://user-images.githubusercontent.com/98326769/191287594-fb19b491-ac9c-4190-a480-8c4320569f0c.png)
