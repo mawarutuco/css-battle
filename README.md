@@ -4,6 +4,9 @@ https://cssbattle.dev/
 
 # Battle#7
 
+## #38
+![image](https://user-images.githubusercontent.com/98326769/192303925-feb614a1-880a-4c1b-84cd-f60aee57437e.png)
+
 ## #37
 ![image](https://user-images.githubusercontent.com/98326769/192147942-e7b2db78-373a-40b5-84bc-d1dfbf93f069.png)
 
