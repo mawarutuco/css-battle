@@ -2,6 +2,12 @@
 
 https://cssbattle.dev/
 
+# Battle#8
+
+## #42
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/98326769/194710430-379d6ba8-b964-4e6c-9ed4-149c45b5aa4b.png">
+
 # Battle#7
 
 ## #41
