@@ -4,6 +4,10 @@
 
 # Battle#10
 
+## #48
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/98326769/195972222-2d75d625-ff50-4728-a73f-f8695ba6c307.png">
+
+
 ## #47
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/98326769/195622852-f9573873-ffda-446f-ac79-861370ba14ce.png">
