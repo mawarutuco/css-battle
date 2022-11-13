@@ -10,14 +10,9 @@
   .circle {
     width: 150px;
     height: 150px;
-    background: linear-gradient( 
-      #4F77FF 0%,#4F77FF 20%,
-      #191919 20% ,#191919 26%,
-      #4F77FF 26%,#4F77FF 47%,
-      #191919 47% ,#191919 53%,
-      #4F77FF 53%,#4F77FF 73%,
-      #191919 73% ,#191919 80% ,
-      #4F77FF 80% ,#4F77FF 100% 
+    background: repeating-linear-gradient( 
+      #4F77FF ,#4F77FF 30px,
+      #191919 30px ,#191919 40px
     );
     border-radius:50%;
     left:50%;
